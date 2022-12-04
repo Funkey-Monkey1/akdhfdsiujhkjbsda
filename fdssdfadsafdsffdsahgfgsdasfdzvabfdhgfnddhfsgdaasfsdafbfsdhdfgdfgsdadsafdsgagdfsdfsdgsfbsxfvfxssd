@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "PhantomForces by unknown", HidePremium = false, SaveConfig = true, IntroEnabled = false, Icon = "https://i.pinimg.com/236x/d1/e3/00/d1e3003215f8298654cb9aa185fefa67.jpg", ConfigFolder = "MonkeysOnTop"})
+local Window = OrionLib:MakeWindow({Name = "PhantomForces by Ice_cream_sandwich#4865", HidePremium = false, SaveConfig = true, IntroEnabled = false, Icon = "https://i.pinimg.com/236x/d1/e3/00/d1e3003215f8298654cb9aa185fefa67.jpg", ConfigFolder = "MonkeysOnTop"})
 
 local Tab = Window:MakeTab({
 	Name = "PhantomForces",
